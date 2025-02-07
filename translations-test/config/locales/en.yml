@@ -1,0 +1,7 @@
+#
+# I18n has to be alphabetically ordered!!!
+#
+en:
+  general:
+    letter: 'letters'
+    words: 'words'
